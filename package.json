@@ -1,0 +1,13 @@
+{
+  "name": "ask-alexa",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "restify": "*",
+    "jsdom": "*",
+    "moment": "*",
+    "node-slack": "*"
+  }
+}
